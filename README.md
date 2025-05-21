@@ -16,15 +16,16 @@ End the program.
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: GAUTHAM KRISHNA S    
-#RegisterNumber:23012450
+#Developed by: MOHAMMED ASHFAQ NADEEM A   
+#RegisterNumber:212224230166
 import numpy as np
 A = [[5,-3,-10],[2,2,-3],[-3,-1,5]]
 B = np.linalg.matrix_rank(A)
 print(B)
 ```
 ## Output:
-![Screenshot 2023-12-24 220132](https://github.com/gauthamkrishna7/RANK-OF-A-MATRIX/assets/141175025/49ecf353-e6a9-4f77-969f-73ad37cfdf9c)
+![image](https://github.com/user-attachments/assets/9e9cc95b-33de-43f1-a9d7-c36aec84fa32)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
